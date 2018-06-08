@@ -1,0 +1,11 @@
+# Blog properies
+title: Teja blog
+author: Teja
+# email: sample@example.org
+description: Tech blog
+twitter_username: teja463
+github_username: teja463
+
+# Build settings
+markdown: kramdown
+theme: minima
